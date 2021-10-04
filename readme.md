@@ -1,11 +1,19 @@
- # ![Banner](https://export-download.canva.com/J-vSY/DAEr1mJ-vSY/24/9233996523.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q/20211003/us-east-1/s3/aws4_request&X-Amz-Date=20211003T234523Z&X-Amz-Expires=31214&X-Amz-Signature=b7fc670f0f810ae2bf8bdadcbe4bf031b7933cc705e8221057c314321ea7b8e5&X-Amz-SignedHeaders=host&response-content-disposition=attachment;%20filename*=UTF-8%27%27CH1NRU5t.gif&response-expires=Mon,%2004%20Oct%202021%2008:25:37%20GMT)
-# ``Hey there everyone! I'm CH1NRU5T``
-### ``Who is CH1NRU5T ``
-* ``An Android developer ``
-* ``A Discord Bot developer``
-* ``A MERN stack developer``
+ # ![Banner](./assets/banner.gif)
+<h1 align="center"> Who is CH1NRU5T </h1>
+<div align="center">
+ 
+ ` An Android developer `
+ 
+ `A Discord Bot developer`
+ 
+ `A MERN stack developer`
 
+ </div>
+ <div align="center">
+ 
 # ``Tools and languages``
+ </div>
+ 
 <div align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div>
@@ -39,7 +47,8 @@
 
 
 <div/>
-
+ <div align="center">
+ 
 ### ``Github Stats``
 
 <p align="center">
@@ -48,3 +57,5 @@
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ch1nru5t&show_icons=true&theme=radical"/></p>
+ 
+ </div>
