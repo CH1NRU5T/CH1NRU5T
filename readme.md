@@ -1,5 +1,9 @@
  # ![Banner](./assets/banner.gif)
-<h1 align="center"> Who is CH1NRU5T </h1>
+<h1 align="center">
+ 
+ ``Who is CH1NRU5T`` 
+
+</h1>
 <div align="center">
  
  ` An Android developer `
@@ -49,7 +53,7 @@
 <div/>
  <div align="center">
  
-### ``Github Stats``
+# ``Github Stats``
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ch1nru5t&show_icons=true&theme=radical" />
