@@ -55,15 +55,16 @@
  
 # ``Github Stats``
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch1nru5t&show_icons=true&theme=radical" />
-</p>
+<span >
+  <img src="https://github-readme-stats.vercel.app/api?username=ch1nru5t&show_icons=true&theme=radical" width="400px"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ch1nru5t&show_icons=true&theme=radical" width="400px"/>
+</span>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ch1nru5t&show_icons=true&theme=radical"/></p>
+<span ></span>
  
  
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch1nru5t&theme=radical"/></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch1nru5t&theme=radical&layout=compact"/></p>
  
  </div>
