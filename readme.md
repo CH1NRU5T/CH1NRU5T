@@ -62,4 +62,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ch1nru5t&show_icons=true&theme=radical"/></p>
  
+ 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch1nru5t&theme=radical"/></p>
+ 
  </div>
