@@ -6,11 +6,7 @@
 </h1>
 <div align="center">
  
- ` An Android developer `
- 
- `A Discord Bot developer`
- 
- `A MERN stack developer`
+ `An Android developer`
 
  </div>
  <div align="center">
