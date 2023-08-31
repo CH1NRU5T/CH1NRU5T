@@ -1,5 +1,5 @@
 # Hi there, I'm Ansh 👋
-- 👨🏻‍🎓 3rd Year B.Tech Student.
+- 👨🏻‍🎓 4th Year B.Tech Student.
 - 💻 Computer Science
 - 📱 Flutter Developer
 
