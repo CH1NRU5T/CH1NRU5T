@@ -29,14 +29,14 @@ Here are some of the languages, frameworks, and tools I've worked with:
 Here are some of the projects I've worked on recently:
 
 - [**FaceRekog**](https://github.com/CH1NRU5T/face_rekog) : Recognizing faces just got easier with Face Rekog.
-- [**BookShoop**](https://github.com/CH1NRU5T/book_shop_app) : Shop for your favourite books on this app.
+- [**Travel Planner Pro**](https://github.com/CH1NRU5T/Travel-Planner-Pro) : Plan your travels to your favourite destinations.
 
 ## Currently Learning
 
 I'm currently focused on learning:
 - Flutter
 - Dart
-- SpringBoot
+- Go
 
 ## Contact Me
 
