@@ -30,6 +30,7 @@ Here are some of the projects I've worked on recently:
 
 - [**FaceRekog**](https://github.com/CH1NRU5T/face_rekog) : Recognizing faces just got easier with Face Rekog.
 - [**Travel Planner Pro**](https://github.com/CH1NRU5T/Travel-Planner-Pro) : Plan your travels to your favourite destinations.
+- [**Task Manager**](https://github.com/CH1NRU5T/task-manager-frontend) : Plan your tasks like Google Keep Does.
 
 ## Currently Learning
 
