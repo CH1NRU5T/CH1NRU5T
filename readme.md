@@ -1,7 +1,7 @@
 # Hi there, I'm Ansh 👋
 - 👨🏻‍🎓 4th Year B.Tech Student.
 - 💻 Computer Science
-- 📱 Flutter Developer
+- 📱 Dart Developer
 
 ## Skills & Technologies
 
@@ -38,6 +38,7 @@ I'm currently focused on learning:
 - Flutter
 - Dart
 - Go
+- Javascript
 
 ## Contact Me
 
