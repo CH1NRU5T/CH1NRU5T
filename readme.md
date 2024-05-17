@@ -61,3 +61,6 @@ You can reach me through the following channels:
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ch1nru5t/count.svg" />
 </p>
+<script>
+    console.log('hello')
+</script>
