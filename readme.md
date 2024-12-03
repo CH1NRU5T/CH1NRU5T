@@ -1,5 +1,5 @@
 # Hi there, I'm Ansh 👋
-- 👨🏻‍🎓 4th Year B.Tech Student.
+- 👨🏻‍🎓 B.Tech Graduate
 - 💻 Computer Science
 - 📱 Full-Stack Developer
 
